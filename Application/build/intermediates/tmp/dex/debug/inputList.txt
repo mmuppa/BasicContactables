@@ -1,0 +1,7 @@
+/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/classes/debug
+/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-340055801043714ed0c437de01343b1215012c2d.jar
+/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-574f36f3b27cc9ae4543e36a152130bc65ae0671.jar
+/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/pre-dexed/debug/classes-7ef1d990fd5deedfee8854983096d75701423a66.jar
+/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/pre-dexed/debug/classes-9744f7edd6f206ed7cbe007dbc270188b0dcd207.jar
+/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-352ec53ffe5d86e678ea811fe21ffffb0ba184f9.jar
+/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/pre-dexed/debug/classes-ee1b02bd2b088eaa6f1fbff2bc0d1a88ee9f0819.jar

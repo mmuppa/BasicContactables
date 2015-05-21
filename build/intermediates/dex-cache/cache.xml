@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-352ec53ffe5d86e678ea811fe21ffffb0ba184f9.jar" />
+    </item>
+    <item
+        jar="/Users/mmuppa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-574f36f3b27cc9ae4543e36a152130bc65ae0671.jar" />
+    </item>
+    <item
+        jar="/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/pre-dexed/debug/classes-7ef1d990fd5deedfee8854983096d75701423a66.jar" />
+    </item>
+    <item
+        jar="/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-340055801043714ed0c437de01343b1215012c2d.jar" />
+    </item>
+    <item
+        jar="/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/pre-dexed/debug/classes-ee1b02bd2b088eaa6f1fbff2bc0d1a88ee9f0819.jar" />
+    </item>
+    <item
+        jar="/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/mmuppa/Downloads/BasicContactables/Application/build/intermediates/pre-dexed/debug/classes-9744f7edd6f206ed7cbe007dbc270188b0dcd207.jar" />
+    </item>
+
+</items>
