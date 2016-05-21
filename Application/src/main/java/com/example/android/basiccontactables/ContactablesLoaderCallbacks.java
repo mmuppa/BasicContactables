@@ -60,8 +60,8 @@ public class ContactablesLoaderCallbacks implements LoaderManager.LoaderCallback
 
         // BEGIN_INCLUDE(cursor_loader)
         // Easy way to limit the query to contacts with phone numbers.
-        String selection =
-                CommonDataKinds.Contactables.HAS_PHONE_NUMBER + " = " + 0;
+      //  String selection =
+        //        CommonDataKinds.Contactables.HAS_PHONE_NUMBER + " = " + 0;
 
         // Sort results such that rows for the same contact stay together.
         String sortBy = CommonDataKinds.Contactables.LOOKUP_KEY;
@@ -70,7 +70,7 @@ public class ContactablesLoaderCallbacks implements LoaderManager.LoaderCallback
                 mContext,  // Context
                 uri,       // URI representing the table/resource to be queried
                 null,      // projection - the list of columns to return.  Null means "all"
-                selection, // selection - Which rows to return (condition rows must match)
+                null, // selection - Which rows to return (condition rows must match)
                 null,      // selection args - can be provided separately and subbed into selection.
                 sortBy);   // string specifying sort order
         // END_INCLUDE(cursor_loader)
